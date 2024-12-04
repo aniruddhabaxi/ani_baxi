@@ -1,0 +1,151 @@
+*{
+  box-sizing: border-box;
+}
+.row::after{
+  content: "";
+  clear: both;
+  display: table;
+}
+[class*="col-"]{
+  float: left;
+  padding: 10px;
+}
+.col-1{
+  width:8.33%;
+}
+.col-2{
+  width:16.66%;
+}
+.col-3{
+  width:25%;
+}
+.col-4{
+  width:33.33%;
+}
+.col-5{
+  width:41.66%;
+}
+.col-6{
+  width:50%;
+}
+.col-7{
+  width:58.33%;
+}
+.col-8{
+  width:66.66%;
+}
+.col-9{
+  width:75%;
+}
+.col-10{
+  width:83.33%;
+}
+.col-11{
+  width:91.66%;
+}
+.col-12{
+  width:100%;
+}
+body{
+  font-family: Arial;
+  background-color: #f2f2f2;
+  color:#000000;
+}
+header{
+  background-color: #ccc;
+  height: 100px;
+  font-family: Arial;
+  text-align: center;
+}
+.nav_upper{
+  position: fixed;
+  background-color:#ffffff;
+  text-align: center;
+  width: 100%;
+  border:1px solid #ccc;
+  font-size: 14px;
+  color:#000000;
+}
+.nav_upper ul{
+  list-style-type: none;
+  padding: 5px;
+}
+.nav_upper li{
+  margin-right: 50px;
+  display: inline;
+  padding:10px;
+  background-color: #f2f2f2;
+  padding:10px;
+  border-radius: 5px;
+
+}
+/*.nav_upper{
+  background-color:#ffffff;
+  text-align: center;
+  width: 100%;
+  font-size: 12px;
+  position: fixed;
+}
+.nav_upper ul{
+  list-style-type: none;
+  padding: 5px;
+
+}
+.nav_upper li{
+  margin-right: 50px;
+  display: inline;
+  padding:10px;
+}*/
+
+#side_nav{
+  float: left;
+  background-color: #ffffff;
+  border:1px solid #ccc;
+  color: #333;
+  font-size: 14px;
+}
+#side_nav ul{
+  list-style-type: none;
+
+}
+#side_nav li{
+  display: block;
+  padding:20px 0px;
+  border-bottom: #ccc;
+  color: #333;
+  border-bottom: 1px solid #ccc;
+  text-align: left;
+
+}
+li a{
+  text-decoration: none;
+}
+
+li a:visited{
+  padding:10px;
+  border-radius: 5px;
+  color:red;
+}
+li a:hover{
+  background-color:#ccc;
+  color:#000000;
+  padding:10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+li a:active{
+  background-color:grey;
+  color:#000000;
+}
+section::after{
+  content: "";
+  display: table;
+  clear: both;
+}
+aside{
+  padding: 20px 0px 0px 50px;
+  float: left;
+  font-size: 12px;
+  border: 1px solid #ccc;
+  background-color: #ffffff;
+}
