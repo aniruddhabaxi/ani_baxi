@@ -65,5 +65,10 @@ Command used to push the code to Github repository: `git push orgin main`
 
 Motivational quote[^1].
 
+> "The only way to do great work is to love what you do."  
+> — Steve Jobs[^1]
+
+[^1]: Steve Jobs, _Stanford Commencement Address_, 2005.
+
 > All power is within you; you can do anything and everything
 > — Swami Vivekanand [^1]
