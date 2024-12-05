@@ -5,8 +5,6 @@
 Hello! I’m Aniruddha Baxi, a passionate _Fullstack Web Developer_.
 I specialize in creating seamless and visually appealing user interfaces that deliver outstanding user experiences. With a solid foundation in **HTML, CSS, JavaScript**, I enjoy building responsive and interactive web applications that are both functional and user-friendly. <br>
 
----
-
 ## 2) Hobbies or Interest:
 
 - Reading Books
@@ -15,15 +13,10 @@ I specialize in creating seamless and visually appealing user interfaces that de
   - Western Music
   - Indian classical Music<br>
 
----
-
 ## 3) Links & Images:
 
-**Favorite Link:** [SOP](https://school.mildredgroup.com/)
-<br>
+**Favorite Link:** [SOP](https://school.mildredgroup.com/) <br>
 **Favorite Image:** <br>![SOP Logo](https://school.mildredgroup.com/img/school.png "School of programming")<br>
-
----
 
 ## 4) Task List:
 
@@ -33,8 +26,6 @@ I specialize in creating seamless and visually appealing user interfaces that de
 - [] Creating Database
 - [] Creating back-end
 
----
-
 ## 5) Table structure:
 
 | **Full Name** |    **Email**     |   **Ph. No**    |
@@ -43,13 +34,9 @@ I specialize in creating seamless and visually appealing user interfaces that de
 |   Andrew M    | Andrew@gmail.com | +1 123-456-7890 |
 |    John C     |  John@gmail.com  | +1 123-456-7890 |
 
----
-
 ## 6) Blockquote:
 
 > All power is within you; you can do anything and everything- Swami Vivekananda <br>
-
----
 
 ## 7) Collapsible Section:
 
@@ -67,7 +54,7 @@ I specialize in creating seamless and visually appealing user interfaces that de
     </details>
 </body>
 </html>
----
+
 ## 8) Inline Code:
 
 Command used to push the code to Github repository: `git push orgin main`
